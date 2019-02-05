@@ -30,6 +30,3 @@ namespace XUnitDemoTest
         }
     }
 }
-
-
-//TDD - Test Driven Development
