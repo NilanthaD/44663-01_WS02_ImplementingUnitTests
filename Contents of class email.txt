@@ -1,0 +1,10 @@
+Hello All
+We would like to invite you all to participate workshop on UNIT TESTING WITH C# organised by.,
+Keerthi Sree Kukunoor
+Meghana Putta
+Ujjawal Kumar
+Anurag Kumar
+Nilantha Dambadeni Kalu Achchillage
+Link to our repo : https://github.com/NilanthaD/44663-01_WS02_ImplementingUnitTests
+Thank you,
+Keerthi Sree Kukunoor
